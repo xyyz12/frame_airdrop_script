@@ -1,6 +1,8 @@
 # frame_airdrop_script
 frame空投查询教学
 
+官网：https://www.frame.xyz/governance
+
 从官网上查空投，需要5步骤：
 
 1、链接钱包   --》      2、钱包签名（重点）   --》    3、连接推特    --》     4、发推      --》      5、查询空投
