@@ -61,7 +61,7 @@ if __name__ == '__main__':
     # print("Volume Traded:", volume)
     # print("Rank:", rank)
 
-    with open('wallets1.txt', 'r') as file:
+    with open('wallets.txt', 'r') as file:
         lines = file.readlines()
     
     
